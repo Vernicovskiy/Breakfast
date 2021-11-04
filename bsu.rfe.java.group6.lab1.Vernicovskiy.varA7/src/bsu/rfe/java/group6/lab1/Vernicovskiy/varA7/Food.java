@@ -2,6 +2,7 @@ package bsu.rfe.java.group6.lab1.Vernicovskiy.varA7;
 
 public abstract class Food implements Consumable {
     private String name;
+
     public String getName(){
         return name;
     }
