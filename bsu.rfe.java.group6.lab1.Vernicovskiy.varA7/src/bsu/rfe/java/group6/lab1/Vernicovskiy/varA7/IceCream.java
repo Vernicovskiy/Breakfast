@@ -1,7 +1,7 @@
 package bsu.rfe.java.group6.lab1.Vernicovskiy.varA7;
 
 public class  IceCream extends Food {
-    
+
     private String syrup;
 
     public IceCream (String a){
